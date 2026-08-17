@@ -1,0 +1,9 @@
+SMILES	Name
+NC1=NC(N(C=C1)[C@@H](C(F)([C@@H]2O)F)O[C@@H]2COC([C@H](C(C)C)N)=O)=O	1_5'-L-valyl-gemcitabine
+O[C@H]1C[C@@H](O[C@@H]1COC([C@H](C(C)C)N)=O)N2C(N=C(N=C2)N)=O	2_5'-L-valyl-decitabine
+N[C@@H](CC1=CC=CC=C1)C(OC[C@H]2O[C@@H](N3C(N=C(N=C3)N)=O)C[C@@H]2O)=O	3_5'-L-phenylanlany-decitabine
+C[C@@H](C(N[C@@H](CC(N)=O)C(NCOC[C@H]1O[C@@H](N2C(N=C(N=C2)N)=O)C[C@@H]1O)=O)=O)NC([C@H](C(C)C)N)=O	4_Val-Ala-Asn-decitabine
+C[C@@H](C(N[C@@H](CC(N)=O)C(NCOC[C@H]1O[C@@H](N2C(N=C(N=C2)N)=O)C[C@@H]1O)=O)=O)NC([C@H](C(C)C)NC(CCCCCN3C(C=CC3=O)=O)=O)=O	5_EMC-Val-Ala-Asn-decitabine
+NC1=NC(N(C=C1)[C@@H](C(F)([C@@H]2O)F)O[C@@H]2COCNC([C@H](CC(N)=O)NC([C@H](C)NC([C@H](C)NC(CCCCCN3C(C=CC3=O)=O)=O)=O)=O)=O)=O	6_EMC-Ala-Ala-Asn-gemcitabine
+O=C(C=C1)N(CCCCCC(N[C@@H](C)C(N[C@@H](C)C(N[C@@H](C)C(N[C@@H](CC(N)=O)C(NCOC[C@H]2O[C@H](C(F)([C@@H]2O)F)N3C=CC(N)=NC3=O)=O)=O)=O)=O)=O)C1=O	7_EMC-Ala-Ala-Ala-Asn-gemcitabine
+
