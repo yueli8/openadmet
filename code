@@ -1,9 +1,0 @@
-#排序出来的结果输入input.txt，输出admet_results_full.csv - 完整结果admet_results_ranked.csv - 排序后的结果admet_results_chinese.csv - 中文注释版本
-(openadmet) li@li-ThinkStation-P3-Tower-Gen-2:~/openadmet$ python 04_prediction_simple.py 
-
-#输入input.txt，输出admet_results_full.csv，admet_results_ranked.csv，admet_result01.csv和admet_results_chinese.csv
-(openadmet) li@li-ThinkStation-P3-Tower-Gen-2:~/openadmet$ python 05_predict_result.py  
-
-
-
-
